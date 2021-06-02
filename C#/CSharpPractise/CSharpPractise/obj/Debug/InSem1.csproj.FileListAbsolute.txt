@@ -1,0 +1,7 @@
+D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\CSharpPractise\bin\Debug\CSharpPractise.exe.config
+D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\CSharpPractise\bin\Debug\CSharpPractise.exe
+D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\CSharpPractise\bin\Debug\CSharpPractise.pdb
+D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\CSharpPractise\obj\Debug\InSem1.csprojAssemblyReference.cache
+D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\CSharpPractise\obj\Debug\InSem1.csproj.CoreCompileInputs.cache
+D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\CSharpPractise\obj\Debug\CSharpPractise.exe
+D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\CSharpPractise\obj\Debug\CSharpPractise.pdb
