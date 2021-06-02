@@ -1,7 +1,0 @@
-D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\InSem2\bin\Debug\InSem2.exe.config
-D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\InSem2\bin\Debug\InSem2.exe
-D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\InSem2\bin\Debug\InSem2.pdb
-D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\InSem2\obj\Debug\InSem2.csprojAssemblyReference.cache
-D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\InSem2\obj\Debug\InSem2.csproj.CoreCompileInputs.cache
-D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\InSem2\obj\Debug\InSem2.exe
-D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\InSem2\obj\Debug\InSem2.pdb
