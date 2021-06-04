@@ -17,6 +17,8 @@ namespace OOPS
     }
     class Customer : ICustomer2
     {
+        public int ID { get; set; }
+        public string Name { get; set; }
         public void Print1()
         {
             Console.WriteLine("Print 1");

@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Delegates.cs" />
+    <Compile Include="Generics.cs" />
     <Compile Include="GettersAndSetters.cs" />
     <Compile Include="Inheritance.cs" />
     <Compile Include="Interfaces.cs" />

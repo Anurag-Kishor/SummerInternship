@@ -72,11 +72,36 @@ namespace OOPS
             /* ----- Delegates ----- */
             //A delegate is a type safe function pointer
 
-            Delegates.Delegate();
+            //Delegates.Delegate();
+
+
+            /* ----- Function Delegates ----- */
+
+            Delegates.FunctionDelegate();
+
+            /* ----- Generics ----- */
+            //Generics.GenericTest();
+
+
+
+            /* ----- Lambda Expressions ----- */
+
+            //List<Customer> listCustomers = new List<Customer>()
+            //{
+            //    new Customer{ ID = 100, Name = "John"},
+            //    new Customer{ ID = 101, Name = "Jack"},
+            //    new Customer{ ID = 102, Name = "Jill"}
+            //};
+
+            //Customer c = listCustomers.Find(customer => customer.ID == 100);
+            //Console.WriteLine("ID: {0} Name: {1}", c.ID, c.Name);
+
+            //int count = listCustomers.Count(customer => customer.Name.ToLower().StartsWith("j"));
+            //Console.WriteLine(count);
 
             Console.ReadLine();
         }
 
-        
+
     }
 }
