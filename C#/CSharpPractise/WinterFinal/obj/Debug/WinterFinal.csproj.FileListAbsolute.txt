@@ -1,7 +1,0 @@
-D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\WinterFinal\bin\Debug\WinterFinal.exe.config
-D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\WinterFinal\bin\Debug\WinterFinal.exe
-D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\WinterFinal\bin\Debug\WinterFinal.pdb
-D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\WinterFinal\obj\Debug\WinterFinal.csprojAssemblyReference.cache
-D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\WinterFinal\obj\Debug\WinterFinal.csproj.CoreCompileInputs.cache
-D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\WinterFinal\obj\Debug\WinterFinal.exe
-D:\Anu\DAIICT\OOPS\Internship\C#\CSharpPractise\WinterFinal\obj\Debug\WinterFinal.pdb
