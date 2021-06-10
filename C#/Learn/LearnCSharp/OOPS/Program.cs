@@ -72,12 +72,12 @@ namespace OOPS
             /* ----- Delegates ----- */
             //A delegate is a type safe function pointer
 
-            //Delegates.Delegate();
-
+            Delegates.Delegate();
+        
 
             /* ----- Function Delegates ----- */
 
-            Delegates.FunctionDelegate();
+            //Delegates.FunctionDelegate();
 
             /* ----- Generics ----- */
             //Generics.GenericTest();

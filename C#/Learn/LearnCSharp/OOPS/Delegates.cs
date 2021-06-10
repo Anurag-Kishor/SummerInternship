@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 public delegate void HelloFunctionDelegate(string Message);
 public delegate void TestDelegate();
-
+public delegate double CalAreaPointer(int r);
 namespace OOPS
 {
     class Delegates
@@ -49,15 +49,45 @@ namespace OOPS
 
 
             /* ----- Multicast Delegate ----- */
-            TestDelegate t1;
-            t1 = new TestDelegate(Delegate1);
-            t1 += Delegate2;
-            t1 += Delegate3;
+            //TestDelegate t1;
+            //t1 = new TestDelegate(Delegate1);
+            //t1 += Delegate2;
+            //t1 += Delegate3;
 
-            t1();
+            //t1();
 
-            t1 -= Delegate2;
-            t1();
+            //t1 -= Delegate2;
+            //t1();
+
+            /*---------------------------------------------------------------------------*/
+            //CalAreaPointer calcPointer = new CalAreaPointer(delegate (int r)
+            //{
+            //    return 3.14 * r * r;
+            //});
+
+            //double area = calcPointer(5);
+
+            /*---------------------------------------------------------------------------*/
+
+            //CalAreaPointer cpointer = r => 3.12 * r * r;
+            //var area = cpointer(5);
+
+            /*---------------------------------------------------------------------------*/
+            // USed when there is both input and output 
+
+            //Func<double, double> cpointer = r => 3.14 * r * r;
+            //var area = cpointer(5);
+
+
+            /************************Action Delegate**************************************/
+            // USed when there is nothing to return or output 
+            //Action<string> MyAction = y => Console.WriteLine(y);
+            //MyAction("Hello");
+
+            /**********************Predicate Delegate************************************/
+            /* Used to check some condition. Always returns a boolean*/
+            Predicate<string> CheckGreaterThanFive = x => x.Length > 5;
+            Console.WriteLine(CheckGreaterThanFive("helloworld");
         }
 
         public static bool Promote(Employees emp)

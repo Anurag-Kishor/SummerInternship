@@ -10,6 +10,11 @@ namespace ConsoleApp1
     {
         internal static void InSem2Solution()
         {
+            Q1();
+        }
+
+        public static void Q1()
+        {
             List<Jpeg> photo = new List<Jpeg>();
             photo.Add(new Jpeg());
             photo.Add(new Jpeg());

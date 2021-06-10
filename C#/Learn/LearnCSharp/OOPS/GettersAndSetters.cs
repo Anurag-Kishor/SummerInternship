@@ -13,6 +13,7 @@ namespace OOPS
 
         public int x        //Create getter and setters for x
         {
+            
             get
             {
                 return this._x;
