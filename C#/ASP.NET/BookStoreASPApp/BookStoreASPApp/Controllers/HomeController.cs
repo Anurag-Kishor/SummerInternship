@@ -18,9 +18,11 @@ namespace BookStoreASPApp.Controllers
             return View();
         }
 
-        public ViewResult Contact()
+        public ViewResult ContactUs()
         {
             return View();
         }
+
+
     }
 }
