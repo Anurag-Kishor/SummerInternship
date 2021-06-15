@@ -15,7 +15,7 @@ namespace Price_Comparison.Repository
 
         private List<string> FetchSkuId()
         {
-            return new List<string>() { "001", "002", "003", "004", "005", "006" };
+            return new List<string>() { "001", "002", "003", "004", "005", "006", "007", "008", "009" };
         }
     }
 }

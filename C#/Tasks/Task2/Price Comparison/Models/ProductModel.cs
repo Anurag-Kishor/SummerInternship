@@ -13,5 +13,15 @@ namespace Price_Comparison.Models
         public int OwnPrice { get; set; }
         public Dictionary<string, int> AmazonCompetitors { get; set; }
         public Dictionary<string, int> FlipkartCompetitors { get; set; }
+
+        public ProductModel()
+        {
+            Name = string.Empty;
+            SkuId = string.Empty;
+            Stock = -1;
+            OwnPrice = -1;
+            AmazonCompetitors = null;
+            FlipkartCompetitors = null;
+        }
     }
 }
