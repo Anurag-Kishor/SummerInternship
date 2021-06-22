@@ -20,3 +20,7 @@ D:\Anu\DAIICT\OOPS\Internship\Xamarin\LearnXAML\LearnXAML\LearnXAML\obj\Debug\ne
 D:\Anu\DAIICT\OOPS\Internship\Xamarin\LearnXAML\LearnXAML\LearnXAML\obj\Debug\netstandard2.0\SliderBindingPage.xaml.g.cs
 D:\Anu\DAIICT\OOPS\Internship\Xamarin\LearnXAML\LearnXAML\LearnXAML\obj\Debug\netstandard2.0\SliderTransformsPage.xaml.g.cs
 D:\Anu\DAIICT\OOPS\Internship\Xamarin\LearnXAML\LearnXAML\LearnXAML\obj\Debug\netstandard2.0\ListViewDemoPage.xaml.g.cs
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\LearnXAML\LearnXAML\LearnXAML\obj\Debug\netstandard2.0\DateTimePage.xaml.g.cs
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\LearnXAML\LearnXAML\LearnXAML\obj\Debug\netstandard2.0\ClockPage.xaml.g.cs
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\LearnXAML\LearnXAML\LearnXAML\obj\Debug\netstandard2.0\HslColorScrollPage.xaml.g.cs
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\LearnXAML\LearnXAML\LearnXAML\obj\Debug\netstandard2.0\KeypadPage.xaml.g.cs

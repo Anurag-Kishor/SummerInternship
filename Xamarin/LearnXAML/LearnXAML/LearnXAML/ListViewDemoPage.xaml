@@ -3,5 +3,5 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LearnXAML.ListViewDemoPage">
 
-    <ListView ItemsSource="{x:Static local:NamedColor.All}"/>
+    <StackLayout/>
 </ContentPage>

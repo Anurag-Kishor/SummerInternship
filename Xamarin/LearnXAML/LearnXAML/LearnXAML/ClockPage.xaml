@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LearnXAML;assembly=LearnXAML"
+             x:Class="LearnXAML.ClockPage"
+             Title="Clock Page">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="{Binding DateTime, StringFormat='{0:T}'}"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                   FontSize="Large">
+
+                <Label.BindingContext>
+                    <local:ClockViewModel/>
+                </Label.BindingContext>
+            </Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
