@@ -1,0 +1,15 @@
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\bin\Debug\netstandard2.0\AndroidAppUITask.deps.json
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\bin\Debug\netstandard2.0\AndroidAppUITask.dll
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\bin\Debug\netstandard2.0\ref\AndroidAppUITask.dll
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\bin\Debug\netstandard2.0\AndroidAppUITask.pdb
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\obj\Debug\netstandard2.0\AndroidAppUITask.csproj.AssemblyReference.cache
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\obj\Debug\netstandard2.0\AndroidAppUITask.AssemblyInfoInputs.cache
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\obj\Debug\netstandard2.0\AndroidAppUITask.AssemblyInfo.cs
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\obj\Debug\netstandard2.0\AndroidAppUITask.csproj.CoreCompileInputs.cache
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\obj\Debug\netstandard2.0\AndroidAppUITask.dll
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\obj\Debug\netstandard2.0\ref\AndroidAppUITask.dll
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\obj\Debug\netstandard2.0\AndroidAppUITask.pdb
+D:\Anu\DAIICT\OOPS\Internship\Xamarin\AndroidAppUITask\AndroidAppUITask\AndroidAppUITask\obj\Debug\netstandard2.0\RegistrationPage.xaml.g.cs

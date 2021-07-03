@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7EOjnQnoW231NlfGXXYr/rXZ7dvjpn5Ww7Z7TWBnr4oeG/kws+AAkTDKY73vg51JsQ9tBcJ+09huxrCWRb7wDQ==",
+  "success": true,
+  "projectFilePath": "D:\\Anu\\DAIICT\\OOPS\\Internship\\Xamarin\\AndroidAppUITask\\AndroidAppUITask\\AndroidAppUITask.iOS\\AndroidAppUITask.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\xamarin.communitytoolkit\\1.2.0\\xamarin.communitytoolkit.1.2.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
